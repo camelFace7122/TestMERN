@@ -1,0 +1,9 @@
+{
+    "watch": "",
+    "env": {
+        "NODE_ENV": "development",
+        "PORT": 8888
+    },
+    "exec": "ts-node app.ts",
+    "ext": "js, json, ts"
+}

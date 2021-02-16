@@ -1,0 +1,41 @@
+.addCompanyModal {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(104, 75, 75, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.addCompanyModal__inner {
+    flex: 0 1 600px;
+    min-height: 250px;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.addCompanyModalField {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.addCompanyModalField input {
+    width: 100%;
+}
+
+.addCompanyModalField label {
+    display: block;
+}
+
+.addCompanyModalFieldError {
+    color: red;
+    margin: 0;
+}
+
+.cancelBtn {
+    margin-left: 15px
+}
