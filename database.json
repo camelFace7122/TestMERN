@@ -1,0 +1,52 @@
+[
+    {
+      "name":"KazMunaiGaz",
+      "location":"Kazakhstan, Atyrau",
+      "logo":"https://pbs.twimg.com/profile_images/1218802492/avatar_400x400.jpg"
+    },
+    {
+      "name":"Lukoil",
+      "location":"Russia, Toliatti",
+      "logo":"https://pbs.twimg.com/profile_images/1348020242660909062/IxM9LYzM_400x400.jpg"
+    },
+    {
+      "name":"Royal Dutch Shell",
+      "location":"Netherlands, Hague",
+      "logo":"https://pbs.twimg.com/profile_images/934717921816993793/H1vB6P7o_400x400.jpg"
+    },
+    {
+      "name":"Gazprom",
+      "location":"Russia, Saint-Petersburg",
+      "logo":"https://pbs.twimg.com/profile_images/979235514686562304/vW_7VJ66_400x400.jpg"
+    },
+    {
+      "name":"Valero Energy",
+      "location":"USA, San-Antonio, TX",
+      "logo":"https://pbs.twimg.com/profile_images/986631405122732033/AqhNDA1z_400x400.jpg"
+    },
+    {
+      "name":"Husky Energy",
+      "location":"Canada, Calgari",
+      "logo":"https://pbs.twimg.com/profile_images/1344677502677991437/NnWYYgyy_400x400.jpg"
+    },
+    {
+      "name":"Saudi Aramco",
+      "location":"Saudi Arabia, Dakhran",
+      "logo":"https://pbs.twimg.com/profile_images/587131394096107520/4RFYgoKG_400x400.png"
+    },
+    {
+      "name":"Hellenic Petroleum S.A.",
+      "location":"Greece, Athens",
+      "logo":"https://pbs.twimg.com/profile_images/378800000482596308/e73fc8cbb53c1506fca97844b1ac9fd0_400x400.jpeg"
+    },
+    {
+      "name":"Indian Oil Corporation",
+      "location":"India, Calcutta",
+      "logo":"https://pbs.twimg.com/profile_images/877082636325339138/95iF0FFg_400x400.jpg"
+    },
+    {
+      "name":"ExxonMobil",
+      "location":"USA, Irwing, TX",
+      "logo":"https://pbs.twimg.com/profile_images/902558084064616448/YTOCYYnn_400x400.jpg"
+    }
+  ]
